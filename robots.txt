@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kaelaezeeg.errickson.net/sitemap.xml
